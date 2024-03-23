@@ -1,0 +1,11 @@
+asyncio
+logging
+aiohttp
+geoip2
+dnspython
+python-jose
+pyjwt
+functools
+datetime
+tenacity
+sqlite3
